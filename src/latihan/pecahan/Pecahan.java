@@ -1,12 +1,12 @@
 package latihan.pecahan;
-
+/*
+Nama        : Wildan Muhammad Fikri
+Kelas       : IF1
+NIM         : 10118044
+Deskripsi   : mendeklarasikan variabel pecahan
+ */
 public class Pecahan {
-	/*
-    Nama        : Wildan Muhammad Fikri
-    Kelas       : IF1
-    NIM         : 10118044
-    Deskripsi   : mendeklarasikan variabel pecahan
-     */
+
 	public static void main(String[] args) {
         float f;
         double d;
